@@ -66,7 +66,7 @@ export default function MacWindow() {
   };
 
   return (
-   <div className="relative min-h-screen bg-linear-to-b from-sky-300 via-blue-200 to-blue-100 overflow-hidden">
+   <div className="relative min-h-screen bg-linear-to-b from-blue-200 via-sky-100 to-white overflow-hidden">
       {/* Wave Background */}
       <Wave
         paused={false}
@@ -203,7 +203,7 @@ export default function MacWindow() {
                 </p>
                 <ul className="list-disc pl-6 mt-2">
                   <li><b>Certificate in Cybersecurity</b> – May 2026</li>
-                  <li><b>Dean's List</b> – 2026</li>
+                  <li><b>Dean's List</b> – Spring 2026, Fall 2025</li>
                 </ul>
               </div>
 
@@ -221,7 +221,7 @@ export default function MacWindow() {
 
                 <div>
                   <p className="font-semibold">Barista</p>
-                  <p className="text-gray-600">Coffeeville, Jackson, WI — June 2024 – October 2025</p>
+                  <p className="text-gray-600">Coffeeville, Jackson, WI — June 2024 – Present</p>
                   <ul className="list-disc pl-6 mt-1 text-gray-700">
                     <li>Prepared specialty drinks, ensuring top quality and customer satisfaction</li>
                     <li>Efficiently multitasked between drink preparation, food service, and customer interactions in a fast-paced environment</li>
