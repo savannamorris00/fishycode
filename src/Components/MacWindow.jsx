@@ -112,7 +112,7 @@ export default function MacWindow() {
 
           {/* Content Buttons */}
           <div className="flex-1 p-10 flex flex-col items-center justify-center">
-            <h1 className="text-6xl font-mono font-thin">Hi, I'm Savanna!</h1>
+            <h1 className="text-6xl font-mono font-thin">Hi, I'm Savanna!!</h1>
             <p className="mt-5 text-lg text-gray-600 text-center font-mono font-thin">
               IST and Cybersecurity student, Artist
             </p>
