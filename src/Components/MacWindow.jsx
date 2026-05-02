@@ -203,7 +203,7 @@ export default function MacWindow() {
                 </p>
                 <ul className="list-disc pl-6 mt-2">
                   <li><b>Certificate in Cybersecurity</b> – May 2026</li>
-                  <li><b>Dean's List</b> – Spring 2026, Fall 2025</li>
+                  <li><b>Dean's List</b> – Spring 2025, Fall 2025</li>
                 </ul>
               </div>
 
