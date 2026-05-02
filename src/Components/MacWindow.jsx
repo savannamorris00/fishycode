@@ -206,7 +206,9 @@ export default function MacWindow() {
                   <li><b>Dean's List</b> – Spring 2025, Fall 2025</li>
                 </ul>
               </div>
-                <div className="border-t border-gray-300 my-4"></div>
+
+              <div className="border-t border-gray-300 my-4"></div>
+
               <div>
                 <h2 className="font-bold text-lg mb-2">Current Employment</h2>
                 <div className="mb-4">
@@ -231,6 +233,8 @@ export default function MacWindow() {
                 </div>
               </div>
 
+              <div className="border-t border-gray-300 my-4"></div>
+              
               <div>
                 <h2 className="font-bold text-lg mb-2">Languages</h2>
                 <p>
