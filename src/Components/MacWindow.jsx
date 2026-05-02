@@ -66,7 +66,7 @@ export default function MacWindow() {
   };
 
   return (
-    <div className="relative min-h-screen bg-linear-to-b from-orange-300 via-pink-300 to-purple-400 overflow-hidden">
+   <div className="relative min-h-screen bg-linear-to-b from-orange-300 via-rose-300 to-sky-200 overflow-hidden">
       {/* Wave Background */}
       <Wave
         paused={false}
