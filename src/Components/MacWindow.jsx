@@ -104,7 +104,7 @@ export default function MacWindow() {
       <div className="relative z-1 min-h-screen flex items-center justify-center p-4">
         <div className="w-[700px] h-[460px] bg-white rounded-xl shadow-2xl border border-gray-300 overflow-hidden flex flex-col">
           {/* Top Bar */}
-          <div className="h-10 bg-gray-900 flex items-center px-4 border-b border-gray-800">
+          <div className="h-10 bg-gray-#787276 flex items-center px-4 border-b border-gray-800">
             <span className="text-white text-sm font-semibold">
               Home
             </span>
