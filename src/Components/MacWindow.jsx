@@ -114,7 +114,7 @@ export default function MacWindow() {
           <div className="flex-1 p-10 flex flex-col items-center justify-center">
             <h1 className="text-6xl font-mono font-thin">Hi, I'm Savanna!!</h1>
             <p className="mt-5 text-lg text-gray-600 text-center font-mono font-thin">
-              IST and Cybersecurity student, Artist
+              IST and Cybersecurity student, Artist, Gamer, and Aspiring Netorks Engineer
             </p>
 
             <div className="mt-12 grid grid-cols-3 gap-12">
